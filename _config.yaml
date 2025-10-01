@@ -1,0 +1,12 @@
+title: "Jin Gizmo"
+description: "Jin Gizmo open source tools."
+theme: minima
+markdown: kramdown
+
+# baseurl: ""
+# url: "https://<username>.github.io"
+
+show_downloads: false
+
+minima:
+  show_footer: false
