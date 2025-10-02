@@ -1,6 +1,9 @@
 /* Tiles Layout and Wrapper */
 :root {
   --dark-mode-link: #6db3f2;
+  --dark-mode-background: #1a1a1a;
+  --dark-mode-text-color: #e0e0e0;
+  --light-mode-background: #ffffff;
   --light-mode-link: #1756a9;
 }
 
@@ -39,13 +42,13 @@
 /* Dark Mode  */
 @media (prefers-color-scheme: dark) {
   body {
-    background: #1a1a1a;
-    color: #e0e0e0;
+    background: var(--dark-mode-background);
+    color: var(--dark-mode-text-color);
   }
 
   .tile {
     background: #2d2d2d;
-    color: #e0e0e0;
+    color: var(--dark-mode-text-color);
   }
 
   a, a:visited {
@@ -58,15 +61,24 @@
   }
 
   header, footer {
-    background-color: #1a1a1a;
+    background-color: var(--dark-mode-background);
     border-color: #333;
+  }
+
+  a.site-title , a.site-title:visited {
+    color: var(--dark-mode-text-color);
+  }
+
+  a.site-title:hover, a.site-title:focus {
+    color: var(--dark-mode-link);
+    text-decoration: none;
   }
 }
 
 /* Light Mode */
 @media (prefers-color-scheme: light) {
   body {
-    background: #ffffff;
+    background: var(--light-mode-background);
     color: #000000;
   }
 

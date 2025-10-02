@@ -53,23 +53,23 @@ complex technology solutions in-house.
 
     <div class="tile">
       <picture style="margin: 0 10px 0 -10px;">
-        <img src="/assets/images/ollex.png" alt="Ollex Logo"
-             style="width: 80px; height: auto;">
-      </picture>
-      <p>
-        <strong>Ollex</strong> is a little desktop workbench built to try out various combinations
-        of LLM models, embedding strategies, parameters, prompts. (Coming soon)
-      </p>
-    </div>
-
-    <div class="tile">
-      <picture style="margin: 0 10px 0 -10px;">
         <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo"
              style="width: 80px; height: auto;">
       </picture>
       <p>
         <strong>Lava-GUI</strong> is a <a href="https://flet.dev">Flet</a>-based
         desktop GUI for lava operational use support. (Coming soon)
+      </p>
+    </div>
+
+    <div class="tile">
+      <picture style="margin: 0 10px 0 -10px;">
+        <img src="/assets/images/ollex.png" alt="Ollex Logo"
+             style="width: 80px; height: auto;">
+      </picture>
+      <p>
+        <strong>Ollex</strong> is a little desktop workbench built to try out various combinations
+        of LLM models, embedding strategies, parameters, prompts. (Coming soon)
       </p>
     </div>
 
