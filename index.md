@@ -58,7 +58,7 @@ complex technology solutions in-house.
       </picture>
       <p>
         <strong>Lava-GUI</strong> is a <a href="https://flet.dev">Flet</a>-based
-        desktop GUI for lava operational use support. (Coming soon)
+        desktop GUI for lava operational use and support. (Coming soon)
       </p>
     </div>
 
