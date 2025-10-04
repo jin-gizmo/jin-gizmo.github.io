@@ -15,35 +15,35 @@ complex technology solutions in-house.
   <div class="tiles-grid">
 
     <div class="tile">
-      <picture style="margin: 0 10px 0 -10px;">
+      <picture>
         <source srcset="/assets/images/docma-logo-vertical-dark.svg"
                 media="(prefers-color-scheme: dark)">
-        <img src="/assets/images/docma-logo-vertical-light.svg" alt="Docma Logo"
-             style="width: 80px; height: auto;">
+        <img src="/assets/images/docma-logo-vertical-light.svg" alt="Docma Logo">
       </picture>
       <p>
-        <strong>Docma</strong> is a document generator that can assemble and compose PDF and HTML
-        documents from document templates with dynamic, data driven content.
+        <strong>Docma</strong> is a template driven PDF / HTML generator that
+        can assemble and compose documents with dynamic, data driven content.
         (Coming soon)
       </p>
     </div>
 
     <div class="tile">
-      <picture style="margin: 0 10px 0 -10px;">
-        <img src="/assets/images/dockreg.png" alt="Dockreg Logo"
-             style="width: 80px; height: auto;">
-      </picture>
+
+      <a href="https://github.com/jin-gizmo/dockreg">
+        <picture>
+            <img src="/assets/images/dockreg.png" alt="Dockreg Logo">
+        </picture>
+      </a>
       <p>
-        <a href="https://github.com/jin-gizmo/dockreg"> Dockreg</a>
+        <a href="https://github.com/jin-gizmo/dockreg">Dockreg</a>
         is a simple utility for deploying and managing a private docker registry
         running on the local machine in a docker container.
       </p>
     </div>
 
     <div class="tile">
-      <picture style="margin: 0 10px 0 -10px;">
-        <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo"
-             style="width: 80px; height: auto;">
+      <picture>
+        <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
       </picture>
       <p>
         <strong>Lava</strong> is a robust and scalable AWS based distributed
@@ -52,9 +52,8 @@ complex technology solutions in-house.
     </div>
 
     <div class="tile">
-      <picture style="margin: 0 10px 0 -10px;">
-        <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo"
-             style="width: 80px; height: auto;">
+      <picture>
+        <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
       </picture>
       <p>
         <strong>Lava-GUI</strong> is a <a href="https://flet.dev">Flet</a>-based
@@ -63,13 +62,13 @@ complex technology solutions in-house.
     </div>
 
     <div class="tile">
-      <picture style="margin: 0 10px 0 -10px;">
-        <img src="/assets/images/ollex.png" alt="Ollex Logo"
-             style="width: 80px; height: auto;">
+      <picture>
+        <img src="/assets/images/ollex.png" alt="Ollex Logo">
       </picture>
       <p>
-        <strong>Ollex</strong> is a little desktop workbench built to try out various combinations
-        of LLM models, embedding strategies, parameters, prompts. (Coming soon)
+        <strong>Ollex</strong> is a little desktop workbench built to try out
+        various combinations of LLM models, embedding strategies, parameters,
+        prompts. (Coming soon)
       </p>
     </div>
 

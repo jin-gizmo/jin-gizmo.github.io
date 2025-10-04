@@ -34,9 +34,27 @@
 }
 
 /* Prevent image from shrinking in flex layout */
-.tile picture {
+.tile > picture,
+.tile > a {
   flex-shrink: 0;
+  width: 80px;
   padding: 0 1em 0 0;
+  margin: 0 10px 0 -10px;
+}
+
+.tile > a > picture {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.tile img {
+  width: 100%;
+  height: auto;
+}
+
+.tile > p {
+  margin: 0;
 }
 
 /* Dark Mode  */
@@ -65,7 +83,7 @@
     border-color: #333;
   }
 
-  a.site-title , a.site-title:visited {
+  a.site-title, a.site-title:visited {
     color: var(--dark-mode-text-color);
   }
 
