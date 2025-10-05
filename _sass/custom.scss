@@ -57,6 +57,19 @@
   margin: 0;
 }
 
+footer .icon {
+  height: 1.5rem;
+  width: auto;
+  vertical-align: middle;
+}
+
+.site-header .site-icon {
+  height: 2rem;
+  width: auto;
+  margin-right: 1rem;
+  vertical-align: middle;
+}
+
 /* Dark Mode  */
 @media (prefers-color-scheme: dark) {
   body {

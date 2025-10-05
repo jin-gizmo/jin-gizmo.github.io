@@ -1,3 +1,10 @@
 <footer style="text-align: center; margin-top: 3rem; font-size: 0.9rem; color: #666;">
-  <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+  <p>
+    &copy; {{ site.time | date: '%Y' }} {{ site.title }}
+          <picture>
+        <source srcset="/assets/images/jin-gizmo-white.svg"
+                media="(prefers-color-scheme: dark)">
+        <img src="/assets/images/jin-gizmo-red.svg" class="icon" alt="Jin Gizmo Logo">
+      </picture>
+  </p>
 </footer>
