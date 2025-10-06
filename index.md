@@ -62,13 +62,15 @@ complex technology solutions in-house.
     </div>
 
     <div class="tile">
-      <picture>
-        <img src="/assets/images/ollex.png" alt="Ollex Logo">
-      </picture>
+      <a href="https://github.com/jin-gizmo/ollex">
+          <picture>
+            <img src="/assets/images/ollex.png" alt="Ollex Logo">
+          </picture>
+      </a>
       <p>
-        <strong>Ollex</strong> is a little desktop workbench built to try out
-        various combinations of LLM models, embedding strategies, parameters,
-        prompts. (Coming soon)
+        <a href="https://github.com/jin-gizmo/ollex">Ollex</a>
+        is a little desktop workbench built to try out various combinations of
+        LLM models, embedding strategies, parameters, prompts.
       </p>
     </div>
 
