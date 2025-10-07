@@ -26,21 +26,21 @@ complex technology solutions in-house.
         (Coming soon)
       </p>
     </div>
-
+    
     <div class="tile">
-
+    
       <a href="https://github.com/jin-gizmo/jindr">
         <picture>
             <img src="/assets/images/jindr.png" alt="JinDr Logo">
         </picture>
       </a>
       <p>
-        <a href="https://github.com/jin-gizmo/jindr">JinDr</a>
+        <a href="https://github.com/jin-gizmo/jindr"><strong>JinDr</strong></a>
         is a simple utility for deploying and managing a private docker registry
         running on the local machine in a docker container.
       </p>
     </div>
-
+    
     <div class="tile">
       <picture>
         <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
@@ -50,7 +50,7 @@ complex technology solutions in-house.
         scheduler and job runner. (Coming soon)
       </p>
     </div>
-
+    
     <div class="tile">
       <picture>
         <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
@@ -60,7 +60,7 @@ complex technology solutions in-house.
         desktop GUI for lava operational use and support. (Coming soon)
       </p>
     </div>
-
+    
     <div class="tile">
       <a href="https://github.com/jin-gizmo/ollex">
           <picture>
@@ -68,7 +68,7 @@ complex technology solutions in-house.
           </picture>
       </a>
       <p>
-        <a href="https://github.com/jin-gizmo/ollex">Ollex</a>
+        <a href="https://github.com/jin-gizmo/ollex"><strong>Ollex</strong></a>
         is a little desktop workbench built to try out various combinations of
         LLM models, embedding strategies, parameters, prompts.
       </p>
