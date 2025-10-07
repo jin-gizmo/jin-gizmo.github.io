@@ -29,13 +29,13 @@ complex technology solutions in-house.
 
     <div class="tile">
 
-      <a href="https://github.com/jin-gizmo/dockreg">
+      <a href="https://github.com/jin-gizmo/jindr">
         <picture>
-            <img src="/assets/images/dockreg.png" alt="Dockreg Logo">
+            <img src="/assets/images/jindr.png" alt="JinDr Logo">
         </picture>
       </a>
       <p>
-        <a href="https://github.com/jin-gizmo/dockreg">Dockreg</a>
+        <a href="https://github.com/jin-gizmo/jindr">JinDr</a>
         is a simple utility for deploying and managing a private docker registry
         running on the local machine in a docker container.
       </p>
