@@ -14,33 +14,36 @@ complex technology solutions in-house.
 
   <div class="tiles-grid">
 
+    <!-- docma ------------------------------------------------------------- -->
     <div class="tile">
-      <picture>
-        <source srcset="/assets/images/docma-logo-vertical-dark.svg"
-                media="(prefers-color-scheme: dark)">
-        <img src="/assets/images/docma-logo-vertical-light.svg" alt="Docma Logo">
-      </picture>
-      <p>
-        <strong>Docma</strong> is a template driven PDF / HTML generator that
-        can assemble and compose documents with dynamic, data driven content.
-        (Coming soon)
-      </p>
-    </div>
-    
-    <div class="tile">
-    
-      <a href="https://github.com/jin-gizmo/jindr">
+      <a href="https://github.com/jin-gizmo/docma">
         <picture>
-            <img src="/assets/images/jindr.png" alt="JinDr Logo">
+          <source srcset="/assets/images/docma-logo-vertical-dark.svg"
+                  media="(prefers-color-scheme: dark)">
+          <img src="/assets/images/docma-logo-vertical-light.svg" alt="Docma Logo">
         </picture>
       </a>
       <p>
-        <a href="https://github.com/jin-gizmo/jindr"><strong>JinDr</strong></a>
-        is a simple utility for deploying and managing a private docker registry
-        running on the local machine in a docker container.
+        <a href="https://github.com/jin-gizmo/docma"><strong>Docma</strong></a>
+        is a template driven PDF / HTML generator that can assemble and compose
+        documents with dynamic, data driven content.
       </p>
     </div>
-    
+
+    <!-- jindr ------------------------------------------------------------- -->
+    <div class="tile">
+      <a href="https://github.com/jin-gizmo/jindr">
+	<picture>
+	    <img src="/assets/images/jindr.png" alt="JinDr Logo">
+	</picture>
+      </a> <p>
+	<a href="https://github.com/jin-gizmo/jindr"><strong>JinDr</strong></a>
+	is a simple utility for deploying and managing a private docker registry
+	running on the local machine in a docker container.
+      </p>
+    </div>
+
+    <!-- lava -------------------------------------------------------------- -->
     <div class="tile">
       <picture>
         <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
@@ -51,6 +54,7 @@ complex technology solutions in-house.
       </p>
     </div>
     
+    <!-- lava GUI ---------------------------------------------------------- -->
     <div class="tile">
       <picture>
         <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
@@ -61,6 +65,7 @@ complex technology solutions in-house.
       </p>
     </div>
     
+    <!-- ollex-------------------------------------------------------------- -->
     <div class="tile">
       <a href="https://github.com/jin-gizmo/ollex">
           <picture>
