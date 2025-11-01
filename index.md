@@ -56,12 +56,18 @@ complex technology solutions in-house.
     
     <!-- lava GUI ---------------------------------------------------------- -->
     <div class="tile">
-      <picture>
-        <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
-      </picture>
+      <a href="https://github.com/jin-gizmo/lava-gui">
+        <picture>
+          <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
+        </picture>
+      </a>
       <p>
-        <strong>Lava-GUI</strong> is a <a href="https://flet.dev">Flet</a>-based
-        desktop GUI for lava operational use and support. (Coming soon)
+        The
+        <a href="https://github.com/jin-gizmo/lava-gui">
+          <strong>Lava GUI</strong>
+        </a>
+        is a desktop app for lava operational use and support. It supports macOS
+        and Windows.
       </p>
     </div>
     
