@@ -32,12 +32,12 @@ complex technology solutions in-house.
 
     <!-- jindr ------------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://github.com/jin-gizmo/jindr">
+      <a href="https://github.com/jin-gizmo/jindr?tab=readme-ov-file#jindr---local-docker-registry-manager">
 	<picture>
 	    <img src="/assets/images/jindr.png" alt="JinDr Logo">
 	</picture>
       </a> <p>
-	<a href="https://github.com/jin-gizmo/jindr"><strong>JinDr</strong></a>
+	<a href="https://github.com/jin-gizmo/jindr?tab=readme-ov-file#jindr---local-docker-registry-manager"><strong>JinDr</strong></a>
 	is a simple utility for deploying and managing a private docker registry
 	running on the local machine in a docker container.
       </p>
@@ -61,14 +61,14 @@ complex technology solutions in-house.
     
     <!-- lava GUI ---------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://github.com/jin-gizmo/lava-gui">
+      <a href="https://github.com/jin-gizmo/lava-gui#lava-gui">
         <picture>
           <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
         </picture>
       </a>
       <p>
         The
-        <a href="https://github.com/jin-gizmo/lava-gui">
+        <a href="https://github.com/jin-gizmo/lava-gui#lava-gui">
           <strong>Lava GUI</strong>
         </a>
         is a desktop app for lava operational use and support. It supports macOS
@@ -78,13 +78,13 @@ complex technology solutions in-house.
     
     <!-- ollex-------------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://github.com/jin-gizmo/ollex">
+      <a href="https://github.com/jin-gizmo/ollex#ollex-open-llm-experimental-workbench">
           <picture>
             <img src="/assets/images/ollex.png" alt="Ollex Logo">
           </picture>
       </a>
       <p>
-        <a href="https://github.com/jin-gizmo/ollex"><strong>Ollex</strong></a>
+        <a href="https://github.com/jin-gizmo/ollex#ollex-open-llm-experimental-workbench"><strong>Ollex</strong></a>
         is a little desktop workbench built to try out various combinations of
         LLM models, embedding strategies, parameters, prompts.
       </p>
