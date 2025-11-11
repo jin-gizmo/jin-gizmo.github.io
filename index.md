@@ -16,7 +16,7 @@ complex technology solutions in-house.
 
     <!-- docma ------------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://github.com/jin-gizmo/docma">
+      <a href="https://jin-gizmo.github.io/docma">
         <picture>
           <source srcset="/assets/images/docma-logo-vertical-dark.svg"
                   media="(prefers-color-scheme: dark)">
@@ -24,7 +24,7 @@ complex technology solutions in-house.
         </picture>
       </a>
       <p>
-        <a href="https://github.com/jin-gizmo/docma"><strong>Docma</strong></a>
+        <a href="https://jin-gizmo.github.io/docma"><strong>Docma</strong></a>
         is a template driven PDF / HTML generator that can assemble and compose
         documents with dynamic, data driven content.
       </p>
@@ -45,12 +45,17 @@ complex technology solutions in-house.
 
     <!-- lava -------------------------------------------------------------- -->
     <div class="tile">
-      <picture>
-        <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
-      </picture>
+      <a href="https://jin-gizmo.github.io/lava">
+        <picture>
+          <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
+        </picture>
+      </a>
       <p>
-        <strong>Lava</strong> is a robust and scalable AWS based distributed
-        scheduler and job runner. (Coming soon)
+        <a href="https://jin-gizmo.github.io/lava">
+          <strong>Lava</strong>
+        </a>
+        is a robust and scalable AWS based distributed
+        scheduler and job runner.
       </p>
     </div>
     
