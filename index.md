@@ -76,7 +76,21 @@ complex technology solutions in-house.
       </p>
     </div>
     
-    <!-- ollex-------------------------------------------------------------- -->
+    <!-- slacker ----------------------------------------------------------- -->
+    <div class="tile">
+      <a href="https://jin-gizmo.github.io/slacker">
+          <picture>
+            <img src="/assets/images/slacker-icon.png" alt="Slacker Logo">
+          </picture>
+      </a>
+      <p>
+        <a href="https://jin-gizmo.github.io/slacker"><strong>Slacker</strong></a>
+        sends messages from AWS to Slack. It supports dynamic time-of-day and
+        content based, filtering rewriting and routing of messages.
+      </p>
+    </div>
+
+    <!-- ollex ------------------------------------------------------------- -->
     <div class="tile">
       <a href="https://github.com/jin-gizmo/ollex#ollex-open-llm-experimental-workbench">
           <picture>
