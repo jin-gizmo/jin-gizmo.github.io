@@ -16,7 +16,7 @@ complex technology solutions in-house.
 
     <!-- docma ------------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://jin-gizmo.github.io/docma">
+      <a href="https://jin-gizmo.github.io/docma" target="_blank">
         <picture>
           <source srcset="/assets/images/docma-logo-vertical-dark.svg"
                   media="(prefers-color-scheme: dark)">
@@ -24,7 +24,9 @@ complex technology solutions in-house.
         </picture>
       </a>
       <p>
-        <a href="https://jin-gizmo.github.io/docma"><strong>Docma</strong></a>
+        <a href="https://jin-gizmo.github.io/docma" target="_blank">
+            <strong>Docma</strong>
+        </a>
         is a template driven PDF / HTML generator that can assemble and compose
         documents with dynamic, data driven content.
       </p>
@@ -32,12 +34,14 @@ complex technology solutions in-house.
 
     <!-- jindr ------------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://github.com/jin-gizmo/jindr?tab=readme-ov-file#jindr---local-docker-registry-manager">
+      <a href="https://github.com/jin-gizmo/jindr?tab=readme-ov-file#jindr---local-docker-registry-manager" target="_blank">
 	<picture>
 	    <img src="/assets/images/jindr.png" alt="JinDr Logo">
 	</picture>
       </a> <p>
-	<a href="https://github.com/jin-gizmo/jindr?tab=readme-ov-file#jindr---local-docker-registry-manager"><strong>JinDr</strong></a>
+	<a href="https://github.com/jin-gizmo/jindr?tab=readme-ov-file#jindr---local-docker-registry-manager" target="_blank">
+        <strong>JinDr</strong>
+    </a>
 	is a simple utility for deploying and managing a private docker registry
 	running on the local machine in a docker container.
       </p>
@@ -45,13 +49,13 @@ complex technology solutions in-house.
 
     <!-- lava -------------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://jin-gizmo.github.io/lava">
+      <a href="https://jin-gizmo.github.io/lava" target="_blank">
         <picture>
           <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
         </picture>
       </a>
       <p>
-        <a href="https://jin-gizmo.github.io/lava">
+        <a href="https://jin-gizmo.github.io/lava" target="_blank">
           <strong>Lava</strong>
         </a>
         is a robust and scalable AWS based distributed
@@ -61,14 +65,14 @@ complex technology solutions in-house.
     
     <!-- lava GUI ---------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://github.com/jin-gizmo/lava-gui#lava-gui">
+      <a href="https://github.com/jin-gizmo/lava-gui#lava-gui" target="_blank">
         <picture>
           <img src="/assets/images/lava-icon-256-opaque.svg" alt="Lava Logo">
         </picture>
       </a>
       <p>
         The
-        <a href="https://github.com/jin-gizmo/lava-gui#lava-gui">
+        <a href="https://github.com/jin-gizmo/lava-gui#lava-gui" target="_blank">
           <strong>Lava GUI</strong>
         </a>
         is a desktop app for lava operational use and support. It supports macOS
@@ -78,13 +82,15 @@ complex technology solutions in-house.
     
     <!-- slacker ----------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://jin-gizmo.github.io/slacker">
+      <a href="https://jin-gizmo.github.io/slacker" target="_blank">
           <picture>
             <img src="/assets/images/slacker-icon.png" alt="Slacker Logo">
           </picture>
       </a>
       <p>
-        <a href="https://jin-gizmo.github.io/slacker"><strong>Slacker</strong></a>
+        <a href="https://jin-gizmo.github.io/slacker" target="_blank">
+            <strong>Slacker</strong>
+        </a>
         sends messages from AWS to Slack. It supports dynamic time-of-day and
         content based, filtering rewriting and routing of messages.
       </p>
@@ -92,13 +98,15 @@ complex technology solutions in-house.
 
     <!-- ollex ------------------------------------------------------------- -->
     <div class="tile">
-      <a href="https://github.com/jin-gizmo/ollex#ollex-open-llm-experimental-workbench">
+      <a href="https://github.com/jin-gizmo/ollex#ollex-open-llm-experimental-workbench" target="_blank">
           <picture>
             <img src="/assets/images/ollex.png" alt="Ollex Logo">
           </picture>
       </a>
       <p>
-        <a href="https://github.com/jin-gizmo/ollex#ollex-open-llm-experimental-workbench"><strong>Ollex</strong></a>
+        <a href="https://github.com/jin-gizmo/ollex#ollex-open-llm-experimental-workbench" target="_blank">
+            <strong>Ollex</strong>
+        </a>
         is a little desktop workbench built to try out various combinations of
         LLM models, embedding strategies, parameters, prompts.
       </p>
