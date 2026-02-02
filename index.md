@@ -5,7 +5,8 @@ layout: default
 A number of tools have been developed at [Origin
 Energy](https://www.originenergy.com.au) as part of the *Jindabyne* initiative.
 While not part of our core IP, they have proved valuable internally, and are
-being shared in the hope they're useful to others.
+being shared in the hope they're useful to others. Other tools have been added
+independently.
 
 Kudos to Origin for fostering a culture that empowers its people to build
 complex technology solutions in-house.
@@ -109,6 +110,22 @@ complex technology solutions in-house.
         </a>
         is a little desktop workbench built to try out various combinations of
         LLM models, embedding strategies, parameters, prompts.
+      </p>
+    </div>
+
+    <!-- makehelp ---------------------------------------------------------- -->
+    <div class="tile">
+      <a href="https://github.com/jin-gizmo/makehelp?tab=readme-ov-file#makehelp---a-makefile-help-maker" target="_blank">
+          <picture>
+            <img src="/assets/images/makehelp-icon.png" alt="makehelp Logo">
+          </picture>
+      </a>
+      <p>
+        <a href="https://github.com/jin-gizmo/makehelp?tab=readme-ov-file#makehelp---a-makefile-help-maker" target="_blank">
+            <strong>MakeHelp</strong>
+        </a>
+	    generates help doco from makefiles. It is easy to get started and
+	    flexible enough to generate rich documentation.
       </p>
     </div>
 
